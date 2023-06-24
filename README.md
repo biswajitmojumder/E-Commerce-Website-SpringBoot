@@ -1,6 +1,6 @@
 # Ecommerce Website
 
-Welcome to the repository for our ecommerce website! This project is developed using Spring Boot and Angular, creating a robust and feature-rich platform for online shopping. In this README, we will focus on the user management module, which includes various functionalities such as user authentication, account verification emails, integrated mailbox, user banning/unbanning, newsletter subscriptions, and QR code scanning.
+Welcome to the repository for our ecommerce website! This project is developed using Spring Boot creating a robust and feature-rich platform for online shopping. In this README, we will focus on the user management module, which includes various functionalities such as user authentication, account verification emails, integrated mailbox, user banning/unbanning, newsletter subscriptions, and QR code scanning.
 
 ## Table of Contents
 
