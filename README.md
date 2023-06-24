@@ -42,7 +42,7 @@ To enhance user experience and provide additional functionality, we have integra
 
 ## Conclusion
 
-The user management module plays a crucial role in our ecommerce website, ensuring secure user access, streamlined communication, and efficient management of user accounts. By leveraging Spring Boot and Angular, we have developed a powerful and feature-rich platform that enables seamless online shopping. With the implementation of Spring Security, Spring Mailer, an integrated mailbox, user ban/unban system, newsletter subscriptions, and QR code scanning, we provide a comprehensive solution for managing user interactions and delivering an exceptional shopping experience.
+The user management module plays a crucial role in our ecommerce website, ensuring secure user access, streamlined communication, and efficient management of user accounts. By leveraging Spring Boot, we have developed a powerful and feature-rich platform that enables seamless online shopping. With the implementation of Spring Security, Spring Mailer, an integrated mailbox, user ban/unban system, newsletter subscriptions, and QR code scanning, we provide a comprehensive solution for managing user interactions and delivering an exceptional shopping experience.
 
 If you have any questions, suggestions, or feedback, please don't hesitate to reach out. We appreciate your interest
 
